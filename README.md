@@ -9,6 +9,7 @@ The overview of LiVLR:
 - Download pre-extracted visual and linguistic features from [here]().
 
 ### Results on MSRVTT-QA 
+- Download pre-trained models from [here](). 
 Comparison with SoTA       | Trainable parameters  
 :-------------------------:|:-------------------------:
 ![](./misc/r_msrvtt-qa.png)  |  ![](./misc/pa.svg)
