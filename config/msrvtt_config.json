@@ -1,0 +1,12 @@
+{
+    "hid_dim": 512,
+    "token_dim": 768,
+    "num_srl": 12,
+    "num_verbs": 4,
+    "num_nouns": 6,
+    "num_roles": 16,
+    "max_token_in_sent": 30,
+    "obj_in_img": 10,
+    "dropout": 0.5,
+    "gpu_ids": [0]
+}
