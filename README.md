@@ -10,6 +10,7 @@ The overview of LiVLR:
 
 ### Results on MSRVTT-QA 
 - Download pre-trained models from [here](). 
+
 Comparison with SoTA       | Trainable parameters  
 :-------------------------:|:-------------------------:
 ![](./misc/r_msrvtt-qa.png)  |  ![](./misc/pa.svg)
